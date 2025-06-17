@@ -1,2 +1,3 @@
 # Glove embeddings - 25d, 50d, 100d, 200d
 glove.twitter.27B
+embeddings
