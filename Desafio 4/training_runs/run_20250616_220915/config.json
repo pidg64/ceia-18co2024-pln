@@ -1,0 +1,8 @@
+{
+    "max_epochs": 20,
+    "patience": 5,
+    "optimizer": "Adam (\nParameter Group 0\n    amsgrad: False\n    betas: (0.9, 0.999)\n    capturable: False\n    decoupled_weight_decay: False\n    differentiable: False\n    eps: 1e-08\n    foreach: None\n    fused: None\n    lr: 0.001\n    maximize: False\n    weight_decay: 0\n)",
+    "loss_fn": "CrossEntropyLoss()",
+    "model_architecture": "Seq2Seq",
+    "timestamp": "2025-06-16T22:09:15.120972"
+}
